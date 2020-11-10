@@ -4,9 +4,7 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Text Editor
+PURPOSE OF PROJECT: Applying data structures concepts for implementing editor functionalities. Java 
+                     swing is used for using graphical components.
+AUTHORS: Mitadru Saha
